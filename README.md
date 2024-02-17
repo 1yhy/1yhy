@@ -6,12 +6,6 @@
 - 📫 How to reach me: a319139806@163.com
 - 💬 Wechat: a4759821.
 
-- 🔭 I'm Chinese and currently working in Hangzhou.
-- 📖 I'm currently learning && using React.js/Next.js...
-- 🌱 Ask me about any question about my repos or directly give me a issue/pr~
-- 📫 How to reach me: zhoudeyou945@126.com.
-- 💬 Wechat: zhoudeyou945.
-
 **🔧 Language && Tools**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
