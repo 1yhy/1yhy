@@ -14,7 +14,7 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/14101776?s=48&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-[![1yhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=1yhy&theme=buefy)](https://github.com/1yhy)
+[![1yhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=1yhy&theme=buefy&show_icons=true)](https://github.com/1yhy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1yhy&layout=compact)](https://github.com/1yhy/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1yhy&repo=docs-vitepress&theme=buefy)](https://github.com/1yhy/docs-vitepress)
