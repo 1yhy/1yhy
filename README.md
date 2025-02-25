@@ -3,7 +3,7 @@
 - 🔭 I’m a Chinese and currently working in Shenzhen.
 - 🌱 I’m currently learning && using Vue.js.
 - 👯 I’m interested in coding,calligraphy and English.
-- 📫 How to reach me: a319139806@163.com
+- 📫 How to reach me: yhy20010203@gmail.com
 - 💬 Wechat: a4759821.
 
 **🔧 Language && Tools**  
