@@ -1,10 +1,10 @@
 ### 👋 Welcome to 1yhy Zone
 
-- 🔭 I’m a Chinese and currently working in Shenzhen.
-- 🌱 I’m currently learning && using Vue.js.
-- 👯 I’m interested in coding,calligraphy and English.
-- 📫 How to reach me: yhy20010203@gmail.com
-- 💬 Wechat: a4759821.
+- 🔭 Frontend Developer based in Shenzhen, China
+- 🌱 Currently focusing on Vue.js ecosystem and modern web development
+- 👯 Passionate about coding, traditional Chinese calligraphy, and English learning
+- 📫 Contact: yhy20010203@gmail.com
+- 💬 WeChat: a4759821
 
 **🔧 Language && Tools**  
 
