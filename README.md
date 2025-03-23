@@ -17,6 +17,8 @@
 [![1yhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=1yhy&theme=buefy&show_icons=true)](https://github.com/1yhy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1yhy&layout=compact)](https://github.com/1yhy/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1yhy&repo=oss-mcp&theme=buefy)](https://github.com/1yhy/oss-mcp)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1yhy&repo=google-indexing-web-ui&theme=buefy)](https://github.com/1yhy/google-indexing-web-ui)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1yhy&repo=docs-vitepress&theme=buefy)](https://github.com/1yhy/docs-vitepress)
