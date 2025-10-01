@@ -19,7 +19,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1yhy&repo=Figma-Context-MCP&theme=buefy)](https://github.com/1yhy/Figma-Context-MCP)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1yhy&repo=google-indexing-web-ui&theme=buefy)](https://github.com/1yhy/google-indexing-web-ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1yhy&repo=oss-mcp&theme=buefy)](https://github.com/1yhy/oss-mcp)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1yhy&repo=docs-vitepress&theme=buefy)](https://github.com/1yhy/docs-vitepress)
 
