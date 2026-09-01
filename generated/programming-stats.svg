@@ -27,11 +27,11 @@
   <rect class="surface" x="1" y="1" width="998" height="588" rx="18" />
   <text class="kicker" x="42" y="48">GITHUB CONTRIBUTION RHYTHM</text>
   <text class="title" x="42" y="82">过去 365 天的 GitHub 活动</text>
-  <text class="muted" x="958" y="48" text-anchor="end">更新于 2026-08-31</text>
+  <text class="muted" x="958" y="48" text-anchor="end">更新于 2026-09-01</text>
 
   <g transform="translate(42 112)">
     <rect class="track" width="196" height="68" rx="12" />
-    <text class="metric-value" x="16" y="31">6,990</text>
+    <text class="metric-value" x="16" y="31">6,987</text>
     <text class="metric-label" x="16" y="52">Contributions</text>
   </g>
   <g transform="translate(282 112)">
@@ -54,77 +54,77 @@
   <text class="section" x="42" y="228">最近 12 个月</text>
   <g>
     <rect class="track" x="42" y="254" width="23" height="118" rx="6" />
-    <rect class="bar" x="42" y="365" width="23" height="7" rx="6" />
-    <text class="muted" x="53.5" y="397" text-anchor="middle">09</text>
+    <rect class="bar" x="42" y="361" width="23" height="11" rx="6" />
+    <text class="muted" x="53.5" y="397" text-anchor="middle">10</text>
   </g>
   <g>
     <rect class="track" x="76" y="254" width="23" height="118" rx="6" />
-    <rect class="bar" x="76" y="361" width="23" height="11" rx="6" />
-    <text class="muted" x="87.5" y="397" text-anchor="middle">10</text>
+    <rect class="bar" x="76" y="367" width="23" height="5" rx="6" />
+    <text class="muted" x="87.5" y="397" text-anchor="middle">11</text>
   </g>
   <g>
     <rect class="track" x="110" y="254" width="23" height="118" rx="6" />
-    <rect class="bar" x="110" y="367" width="23" height="5" rx="6" />
-    <text class="muted" x="121.5" y="397" text-anchor="middle">11</text>
+    <rect class="bar" x="110" y="357" width="23" height="15" rx="6" />
+    <text class="muted" x="121.5" y="397" text-anchor="middle">12</text>
   </g>
   <g>
     <rect class="track" x="144" y="254" width="23" height="118" rx="6" />
-    <rect class="bar" x="144" y="357" width="23" height="15" rx="6" />
-    <text class="muted" x="155.5" y="397" text-anchor="middle">12</text>
+    <rect class="bar" x="144" y="349" width="23" height="23" rx="6" />
+    <text class="muted" x="155.5" y="397" text-anchor="middle">01</text>
   </g>
   <g>
     <rect class="track" x="178" y="254" width="23" height="118" rx="6" />
-    <rect class="bar" x="178" y="349" width="23" height="23" rx="6" />
-    <text class="muted" x="189.5" y="397" text-anchor="middle">01</text>
+    <rect class="bar" x="178" y="343" width="23" height="29" rx="6" />
+    <text class="muted" x="189.5" y="397" text-anchor="middle">02</text>
   </g>
   <g>
     <rect class="track" x="212" y="254" width="23" height="118" rx="6" />
-    <rect class="bar" x="212" y="343" width="23" height="29" rx="6" />
-    <text class="muted" x="223.5" y="397" text-anchor="middle">02</text>
+    <rect class="bar-accent" x="212" y="254" width="23" height="118" rx="6" />
+    <text class="muted" x="223.5" y="397" text-anchor="middle">03</text>
   </g>
   <g>
     <rect class="track" x="246" y="254" width="23" height="118" rx="6" />
-    <rect class="bar-accent" x="246" y="254" width="23" height="118" rx="6" />
-    <text class="muted" x="257.5" y="397" text-anchor="middle">03</text>
+    <rect class="bar" x="246" y="278" width="23" height="94" rx="6" />
+    <text class="muted" x="257.5" y="397" text-anchor="middle">04</text>
   </g>
   <g>
     <rect class="track" x="280" y="254" width="23" height="118" rx="6" />
-    <rect class="bar" x="280" y="278" width="23" height="94" rx="6" />
-    <text class="muted" x="291.5" y="397" text-anchor="middle">04</text>
+    <rect class="bar" x="280" y="320" width="23" height="52" rx="6" />
+    <text class="muted" x="291.5" y="397" text-anchor="middle">05</text>
   </g>
   <g>
     <rect class="track" x="314" y="254" width="23" height="118" rx="6" />
-    <rect class="bar" x="314" y="320" width="23" height="52" rx="6" />
-    <text class="muted" x="325.5" y="397" text-anchor="middle">05</text>
+    <rect class="bar" x="314" y="360" width="23" height="12" rx="6" />
+    <text class="muted" x="325.5" y="397" text-anchor="middle">06</text>
   </g>
   <g>
     <rect class="track" x="348" y="254" width="23" height="118" rx="6" />
-    <rect class="bar" x="348" y="360" width="23" height="12" rx="6" />
-    <text class="muted" x="359.5" y="397" text-anchor="middle">06</text>
+    <rect class="bar" x="348" y="369" width="23" height="3" rx="6" />
+    <text class="muted" x="359.5" y="397" text-anchor="middle">07</text>
   </g>
   <g>
     <rect class="track" x="382" y="254" width="23" height="118" rx="6" />
     <rect class="bar" x="382" y="369" width="23" height="3" rx="6" />
-    <text class="muted" x="393.5" y="397" text-anchor="middle">07</text>
+    <text class="muted" x="393.5" y="397" text-anchor="middle">08</text>
   </g>
   <g>
     <rect class="track" x="416" y="254" width="23" height="118" rx="6" />
     <rect class="bar" x="416" y="369" width="23" height="3" rx="6" />
-    <text class="muted" x="427.5" y="397" text-anchor="middle">08</text>
+    <text class="muted" x="427.5" y="397" text-anchor="middle">09</text>
   </g>
 
   <text class="section" x="520" y="228">一周节奏</text>
   <g transform="translate(520 250)">
     <text class="body" x="0" y="11">周一</text>
     <rect class="track" x="46" y="2" width="262" height="10" rx="5" />
-    <rect class="bar" x="46" y="2" width="219" height="10" rx="5" />
-    <text class="muted" x="380" y="11" text-anchor="end">1,044 · 15%</text>
+    <rect class="bar" x="46" y="2" width="220" height="10" rx="5" />
+    <text class="muted" x="380" y="11" text-anchor="end">1,047 · 15%</text>
   </g>
   <g transform="translate(520 272)">
     <text class="body" x="0" y="11">周二</text>
     <rect class="track" x="46" y="2" width="262" height="10" rx="5" />
     <rect class="bar" x="46" y="2" width="183" height="10" rx="5" />
-    <text class="muted" x="380" y="11" text-anchor="end">872 · 12%</text>
+    <text class="muted" x="380" y="11" text-anchor="end">873 · 12%</text>
   </g>
   <g transform="translate(520 294)">
     <text class="body" x="0" y="11">周三</text>
@@ -153,8 +153,8 @@
   <g transform="translate(520 382)">
     <text class="body" x="0" y="11">周日</text>
     <rect class="track" x="46" y="2" width="262" height="10" rx="5" />
-    <rect class="bar" x="46" y="2" width="144" height="10" rx="5" />
-    <text class="muted" x="380" y="11" text-anchor="end">685 · 10%</text>
+    <rect class="bar" x="46" y="2" width="142" height="10" rx="5" />
+    <text class="muted" x="380" y="11" text-anchor="end">678 · 10%</text>
   </g>
 
   <line class="divider" x1="42" y1="432" x2="958" y2="432" />

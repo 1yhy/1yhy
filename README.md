@@ -99,11 +99,11 @@
 公开发布于 [远栈 StackOnward](https://stackonward.com/) 的最新内容。
 
 <!-- BLOG-POST-LIST:START -->
+- [2026 支付宝购买美区 App Store 礼品卡：最新入口、兑换与避坑全流程](https://stackonward.com/posts/alipay-app-store-gift-card/) · 2026-08-08
+- [美区 Apple ID 注册教程：免信用卡、支持中国手机号](https://stackonward.com/posts/register-us-apple-id/) · 2026-08-08
 - [Figma MCP服务器：AI驱动设计到代码自动化转换 | 提升设计开发协作效率](https://stackonward.com/posts/figma-mcp/) · 2025-03-30
 - [n8n自动化工作流搭建指南 | 从Docker部署到RSS钉钉推送实战](https://stackonward.com/posts/n8n/) · 2025-02-05
 - [VSCode智能编程指南 | Roo Code配置与Deepseek模型使用](https://stackonward.com/posts/roo-code-and-deepseek/) · 2025-02-04
-- [Nginx Proxy Manager部署指南 | 可视化管理Nginx反向代理和SSL证书](https://stackonward.com/posts/nginx-proxy-management/) · 2024-10-11
-- [Uptime Kuma网站监控搭建指南 | 开源免费的监控告警系统](https://stackonward.com/posts/uptime-kuma/) · 2024-10-11
 <!-- BLOG-POST-LIST:END -->
 
 ---
