@@ -99,11 +99,11 @@
 公开发布于 [远栈 StackOnward](https://stackonward.com/) 的最新内容。
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker 数据卷、文件权限与密钥怎么配置](https://stackonward.com/posts/docker-volume-permissions-secrets/) · 2026-09-03
-- [Docker 端口怎么暴露：127.0.0.1、0.0.0.0、防火墙与容器网络](https://stackonward.com/posts/docker-port-firewall-loopback/) · 2026-09-02
-- [502 和 504 怎么排查：反向代理、Docker 网络与上游超时](https://stackonward.com/posts/502-504-troubleshooting/) · 2026-09-02
-- [网站换域名怎么迁移：301、308、Canonical 和 Search Console](https://stackonward.com/posts/website-domain-migration/) · 2026-09-02
-- [网站打开慢怎么排查：从 DNS、TTFB 到 LCP](https://stackonward.com/posts/slow-website-troubleshooting/) · 2026-09-02
+- [发布失败怎么自动恢复原版本：事务状态、入口切换与回滚边界](https://stackonward.com/posts/automatic-deployment-recovery/) · 2026-09-03
+- [Docker Compose 单机短停机发布：健康检查、入口切换与连接排空](https://stackonward.com/posts/single-server-short-downtime-deployment/) · 2026-09-03
+- [数据库迁移应该在发布哪一步执行：Expand、Migrate、Contract](https://stackonward.com/posts/database-migration-release-order/) · 2026-09-03
+- [Docker 镜像为什么要固定 digest：可复现部署、升级与回滚](https://stackonward.com/posts/docker-image-digest-pinning/) · 2026-09-03
+- [OneDev 完整教程：从 Docker 部署、Git 仓库到 CI/CD 自动发布](https://stackonward.com/posts/onedev-production-deployment/) · 2026-09-03
 <!-- BLOG-POST-LIST:END -->
 
 ---
