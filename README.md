@@ -99,11 +99,11 @@
 公开发布于 [远栈 StackOnward](https://stackonward.com/) 的最新内容。
 
 <!-- BLOG-POST-LIST:START -->
-- [发布失败怎么自动恢复原版本：事务状态、入口切换与回滚边界](https://stackonward.com/posts/automatic-deployment-recovery/) · 2026-09-03
-- [Docker Compose 单机短停机发布：健康检查、入口切换与连接排空](https://stackonward.com/posts/single-server-short-downtime-deployment/) · 2026-09-03
-- [数据库迁移应该在发布哪一步执行：Expand、Migrate、Contract](https://stackonward.com/posts/database-migration-release-order/) · 2026-09-03
-- [Docker 镜像为什么要固定 digest：可复现部署、升级与回滚](https://stackonward.com/posts/docker-image-digest-pinning/) · 2026-09-03
-- [OneDev 完整教程：从 Docker 部署、Git 仓库到 CI/CD 自动发布](https://stackonward.com/posts/onedev-production-deployment/) · 2026-09-03
+- [Claude Code Hooks 怎么用：把确定性检查接入 Claude Code 与 Codex](https://stackonward.com/posts/claude-code-codex-hooks/) · 2026-09-05
+- [Agent Skill 怎么写：把重复工作流接入 Claude Code 与 Codex](https://stackonward.com/posts/agent-skill-project-workflow/) · 2026-09-05
+- [AI Coding 提示词怎么写：只写当前任务，不重复项目规则](https://stackonward.com/posts/coding-agent-task-prompt/) · 2026-09-04
+- [AGENTS.md 怎么写：根规则、目录规则与 CLAUDE.md 复用](https://stackonward.com/posts/agents-md-claude-md-project-rules/) · 2026-09-04
+- [Claude Code 与 Codex 配置怎样协同：全局、项目、Prompt、Skill 与 Hook](https://stackonward.com/posts/claude-code-codex-configuration-guide/) · 2026-09-04
 <!-- BLOG-POST-LIST:END -->
 
 ---
