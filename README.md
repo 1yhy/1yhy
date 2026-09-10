@@ -99,11 +99,11 @@
 公开发布于 [远栈 StackOnward](https://stackonward.com/) 的最新内容。
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Play 日区订阅 ChatGPT｜Android 操作教程](https://stackonward.com/posts/google-play-chatgpt-japan-subscription/) · 2026-09-09
+- [香港汇丰开户：从过境到手机申请](https://stackonward.com/posts/hsbc-hong-kong-account-opening/) · 2026-09-05
 - [Claude Code Hooks 怎么用：把确定性检查接入 Claude Code 与 Codex](https://stackonward.com/posts/claude-code-codex-hooks/) · 2026-09-05
 - [Agent Skill 怎么写：把重复工作流接入 Claude Code 与 Codex](https://stackonward.com/posts/agent-skill-project-workflow/) · 2026-09-05
 - [AI Coding 提示词怎么写：只写当前任务，不重复项目规则](https://stackonward.com/posts/coding-agent-task-prompt/) · 2026-09-04
-- [AGENTS.md 怎么写：根规则、目录规则与 CLAUDE.md 复用](https://stackonward.com/posts/agents-md-claude-md-project-rules/) · 2026-09-04
-- [Claude Code 与 Codex 配置怎样协同：全局、项目、Prompt、Skill 与 Hook](https://stackonward.com/posts/claude-code-codex-configuration-guide/) · 2026-09-04
 <!-- BLOG-POST-LIST:END -->
 
 ---
