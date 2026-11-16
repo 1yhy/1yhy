@@ -99,11 +99,11 @@
 公开发布于 [远栈 StackOnward](https://stackonward.com/) 的最新内容。
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS App Store Submission Checklist With 187 Checks](https://stackonward.com/posts/ios-app-store-review-checklist/) · 2026-11-15
+- [Automate App Store Connect With Codex and StackOnward CLI](https://stackonward.com/posts/ios-app-store-skill-cli/) · 2026-11-15
+- [How We Automated Daily Video Production With Code and AI](https://stackonward.com/posts/ai-video-editing-pipeline/) · 2026-11-14
 - [What Is Jev AI? It Picks an Agent’s Next Move](https://stackonward.com/posts/jev-system-one-open-source-projects/) · 2026-09-19
 - [Go Live with Payments: From Sandbox Keys to the First Real Order](https://stackonward.com/posts/payment-sandbox-to-production-launch/) · 2026-09-11
-- [Why Payment, Attempt, and Transaction Must Stay Separate](https://stackonward.com/posts/payment-attempt-transaction-separation/) · 2026-09-11
-- [Payment Domain Model: Order, Payment, Attempt, and Transaction](https://stackonward.com/posts/payment-domain-object-model/) · 2026-09-11
-- [How to Troubleshoot a Slow Website: DNS, TTFB, and LCP](https://stackonward.com/posts/slow-website-troubleshooting/) · 2026-09-11
 <!-- BLOG-POST-LIST:END -->
 
 ---
